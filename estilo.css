@@ -1,0 +1,22 @@
+body{
+    background-color:antiquewhite;
+    /*border: 15px solid grey;*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#destaque{
+    border: 10px solid lightskyblue;
+    text-align: center;
+    width: 60%;
+}
+
+.box{
+    clear: both;
+    border: 5px solid lightgreen;
+    width: 12%;
+    float: left;
+}
+
+section{
+    text-align:center;
+}
